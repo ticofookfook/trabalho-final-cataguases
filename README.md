@@ -1,5 +1,5 @@
 
-Mesa 1
+Mesa 1:
 Gabriel Braga
 Helena Albano
 João Pedro
@@ -8,7 +8,7 @@ Júlio Onofre
 Marcos Paulo
 Victor Cássio
 
-Mesa 2
+Mesa 2:
 Jéssica
 Ana Emylli
 Gabriel Souza
@@ -23,8 +23,8 @@ Viviane
 Erica
 Mariana
 Lucas
-Jonh
-Gabriele
+Jonh(talvez)
+Gabriele(talvez)
 aline
 
 Mesa 4:
