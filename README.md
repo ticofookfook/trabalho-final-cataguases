@@ -1,5 +1,12 @@
 ```markdown
 # Playbooks de Resposta a Incidentes
+##Desafio:
+
+- Criar um playbook real baseado nesse modelo
+- Adaptar scripts com argumentos dinâmicos
+- Rodar os scripts localmente ou via orquestrador simulado
+- Apresentar o caso + log + evidência
+- Diagrama Visual (Fluxo Playbook)
 
 ---
 
