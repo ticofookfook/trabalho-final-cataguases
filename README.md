@@ -44,7 +44,6 @@
 - Maria Eduarda
 - Marcos Antônio
 - Lorena Lobo
-- Sofia
 
 ### 🎯 **Playbook 2: Resposta a Lateral Movement via Kerberoasting**
 
@@ -68,6 +67,7 @@
 - Erica
 - Mariana
 - Lucas
+- Sofia
 - Jonh (talvez)
 - Gabriele (talvez)
 - Aline
