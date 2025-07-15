@@ -60,7 +60,8 @@ aline
 | **MITRE ID** | T1059.001 (PowerShell) + T1055 (Process Injection) |
 | **Tática** | Execution + Defense Evasion |
 | **Vetor de Entrada** | PowerShell obfuscado via macro do Office |
-| **Ferramentas** | EDR, SIEM, PowerShell ISE, Sysmon, VirusTotal, Memory Dump |<br>
+| **Ferramentas** | EDR, SIEM, PowerShell ISE, Sysmon, VirusTotal, Memory Dump |
+**Por que é complexo:** Ataques fileless são difíceis de detectar, exigem análise de comportamento, desobfuscação de código e correlação temporal de eventos.<br>
 ###############################################<br>
 ###############################################<br>
 Mesa 4:
