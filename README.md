@@ -19,7 +19,7 @@ Victor Cássio
 | **Vetor de Entrada** | Backdoor persistente com comunicação HTTPS |
 | **Ferramentas** | Network Analysis, SSL/TLS Inspection, Memory Forensics, Timeline Analysis |
 
-**Por que é complexo:** Requer análise de tráfego criptografado, correlação temporal, threat hunting proativo e erradicação completa sem alertar o atacante.
+**Por que é complexo:** Requer análise de tráfego criptografado, correlação temporal, threat hunting proativo e erradicação completa sem alertar o atacante.<br>
 ###############################################<br>
 ###############################################<br>
 Mesa 2:
@@ -40,7 +40,7 @@ Sofia
 | **Vetor de Entrada** | Conta comprometida solicitando TGS para SPNs |
 | **Ferramentas** | Windows Event Log, PowerShell, LDAP Query, Group Policy |
 
-**Por que é complexo:** Requer conhecimento profundo de Kerberos, análise de logs do AD, correlação de eventos de autenticação e remediação sem impactar serviços.
+**Por que é complexo:** Requer conhecimento profundo de Kerberos, análise de logs do AD, correlação de eventos de autenticação e remediação sem impactar serviços.<br>
 ###############################################<br>
 ###############################################<br>
 Mesa 3:
@@ -60,7 +60,7 @@ aline
 | **MITRE ID** | T1059.001 (PowerShell) + T1055 (Process Injection) |
 | **Tática** | Execution + Defense Evasion |
 | **Vetor de Entrada** | PowerShell obfuscado via macro do Office |
-| **Ferramentas** | EDR, SIEM, PowerShell ISE, Sysmon, VirusTotal, Memory Dump |
+| **Ferramentas** | EDR, SIEM, PowerShell ISE, Sysmon, VirusTotal, Memory Dump |<br>
 ###############################################<br>
 ###############################################<br>
 Mesa 4:
