@@ -1,5 +1,5 @@
-###############################################<\br>
-###############################################<\br>
+###############################################<br>
+###############################################<br>
 Mesa 1:
 Gabriel Braga
 Helena Albano
@@ -20,8 +20,8 @@ Victor Cássio
 | **Ferramentas** | Network Analysis, SSL/TLS Inspection, Memory Forensics, Timeline Analysis |
 
 **Por que é complexo:** Requer análise de tráfego criptografado, correlação temporal, threat hunting proativo e erradicação completa sem alertar o atacante.
-###############################################<\br>
-###############################################<\br>
+###############################################<br>
+###############################################<br>
 Mesa 2:
 Jéssica
 Ana Emylli
@@ -41,8 +41,8 @@ Sofia
 | **Ferramentas** | Windows Event Log, PowerShell, LDAP Query, Group Policy |
 
 **Por que é complexo:** Requer conhecimento profundo de Kerberos, análise de logs do AD, correlação de eventos de autenticação e remediação sem impactar serviços.
-###############################################<\br>
-###############################################<\br>
+###############################################<br>
+###############################################<br>
 Mesa 3:
 Mirellen
 Viviane 
@@ -61,8 +61,8 @@ aline
 | **Tática** | Execution + Defense Evasion |
 | **Vetor de Entrada** | PowerShell obfuscado via macro do Office |
 | **Ferramentas** | EDR, SIEM, PowerShell ISE, Sysmon, VirusTotal, Memory Dump |
-###############################################<\br>
-###############################################<\br>
+###############################################<br>
+###############################################<br>
 Mesa 4:
 Cássio Costa
 Ian Lima
@@ -72,8 +72,8 @@ Maria Júlia Pina
 Yasmin Athougia
 Vitor Vernec
 
-###############################################<\br>
-###############################################<\br>
+###############################################<br>
+###############################################<br>
 
 
 
