@@ -96,7 +96,11 @@
 - Maria Júlia Pina
 - Yasmin Athougia
 - Vitor Vernec
-
+| Nome do Playbook: Vazamento de Dados via Phishing com Implantação de Spyware
+| MITRE ID: T1586.002	Compromise Accounts: Social Media / T1059 (Command and Scripting Interpreter) / T1110.001 (Credential Phishing) / T1041 (Exfiltration Over C2 Channel)
+| Tática:	Initial Access → Credential Access → Execution → Exfiltration
+| Vetor de Entrada:  Phishing direcionado com anexo malicioso no processo de login no LinkedIn
+| Ferramentas: Microsoft Outlook, LinkedIn,  PowerShell, Keylogger customizado, Zphisher, Twitter, SIEM, EDR, SOAR, Threat Intelligence, Regex-monitor de DLP, script de revogação de credenciais
 ---
 
 ## 📚 Recursos Adicionais
